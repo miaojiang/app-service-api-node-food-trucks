@@ -7,7 +7,8 @@
             "sweet": false,
             "vegetarian": true,
             "bookable": true,
-						"city": "San Francisco"
+            "city": "San Francisco",
+            "creditcard": false
         },
       {
             "id": 2,
@@ -17,7 +18,8 @@
             "sweet": true,
             "vegetarian": true,
             "bookable": false,
-						"city": "Seattle"
+            "city": "Seattle",
+            "creditcard": true
         },
 
         {
@@ -28,7 +30,8 @@
             "sweet": true,
             "vegetarian": true,
             "bookable": false,
-						"city": "Seattle"
+            "city": "Seattle",
+            "creditcard": false
         },
 
       {
@@ -39,7 +42,8 @@
             "sweet": false,
             "vegetarian": true,
             "bookable": true,
-						"city": "Redmond"
+            "city": "Redmond",
+            "creditcard": true
         },
 
          {
@@ -50,7 +54,8 @@
             "sweet": false,
             "vegetarian": true,
             "bookable": false,
-						"city": "New York"
+            "city": "New York",
+            "creditcard": true
         },
        {
             "id": 6,
@@ -60,7 +65,8 @@
             "sweet": true,
             "vegetarian": true,
             "bookable": true,
-						"city": "Chicago"
+            "city": "Chicago",
+            "creditcard": false
         },
         {
             "id": 7,
@@ -70,6 +76,7 @@
             "sweet": false,
             "vegetarian": false,
             "bookable": false,
-						"city": "Seattle"
+            "city": "Seattle",
+            "creditcard": true
         }
 ]
