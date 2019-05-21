@@ -7,7 +7,7 @@
             "sweet": false,
             "vegetarian": true,
             "bookable": true,
-						"city": "San Francisco"
+						"city": "Redmond"
         },
       {
             "id": 2,
@@ -44,23 +44,23 @@
 
          {
             "id": 5,
-            "name": "The big fat pork",
+            "name": "Wood Shop BBQ",
             "likes": 9,
             "savory": true,
             "sweet": false,
             "vegetarian": true,
             "bookable": false,
-						"city": "New York"
+						"city": "Bellevue"
         },
        {
             "id": 6,
-            "name": "The French corner",
+            "name": "The French Corner",
             "likes": 2,
             "savory": true,
             "sweet": true,
             "vegetarian": true,
             "bookable": true,
-						"city": "Chicago"
+						"city": "Bellevue"
         },
         {
             "id": 7,

@@ -3,9 +3,9 @@
 	"info": {
 		"version": "v1",
 		"title": "FoodTrucks",
-    "description": "An TryApp sample API App where you can find Food trucks."
+    "description": "A sample API where you can find Food trucks."
 	},
-	"host": "microsoft-apiapp1fe6951749ff4b76b8cc9194bc29ba61.azurewebsites.net:443",
+	"host": "foodtruckapi.azurewebsites.net",
 	"schemes": ["http", "https"],
   "basePath": "/api/data",
 	"paths": {
